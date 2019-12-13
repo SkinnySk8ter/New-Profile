@@ -1,14 +1,21 @@
 .collab {
-    width: 450px;
+    width: 300px;
     height: 300px;
-
-
 }
+.linkedin {
+    width: 250px;
+    height: 250px;
+}
+.git {
+    width: 200px;
+    height: 200px;
+}
+
 .p {
     float: left;
 }
 .firstassign {
-    width: 450px;
+    width: 300px;
     height: 300px;
 }
 #footer {

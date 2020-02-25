@@ -29,8 +29,7 @@
 
 /*for the new index page down below */
 
-.card-body {
-    width: 18rem;
-    position: relative;
-    left: 50%;
+.card-img-top {
+    width: 100px;
+    height: 100px;
 }
